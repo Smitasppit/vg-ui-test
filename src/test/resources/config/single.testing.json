@@ -1,0 +1,15 @@
+{
+   "environments": {
+    "chrome": {
+      "browser": "chrome"
+    },
+
+    "firefox": {
+      "browser": "firefox"
+    },
+
+    "safari": {
+      "browser": "safari"
+    }
+  }
+}

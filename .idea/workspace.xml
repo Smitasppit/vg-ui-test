@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09d675ad-d949-4830-b4ad-1b421265da70" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ui/tests/VgCompareFundsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/compose-grid.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/compose-grid_debug.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/driver/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/driver/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logger/loging.log" beforeDir="false" afterPath="$PROJECT_DIR$/logger/loging.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qa-browser-parallel.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/securepay/buisnessobject/DemoQAMainBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/securepay/core/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ui/core/DriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/securepay/core/DriverProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ui/core/DriverProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/securepay/pageobject/AbstractPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/securepay/pageobject/DemoQaMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/securepay/utils/PropertyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ui/utils/PropertyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/securepay/utils/ScreenshotReporter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/securepay/utils/exceptions/NoSuchPropertyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ui/utils/exceptions/NoSuchPropertyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/conf.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/conf.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/groovy/com/securepay/AppTests.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/groovy/com/securepay/page/Payment.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/groovy/com/securepay/steps/Given.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/groovy/com/securepay/steps/Then.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/groovy/com/securepay/steps/When.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/securepay/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/securepay/BrowserStackTestNGTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/securepay/LocalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/securepay/SingleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/config/single.testing.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config/single.testing.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/config/single.testing.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config/single.testing.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ui/core/DriverFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test-output/junitreports/TEST-com.ui.tests.VgCompareFundsTest.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="323">
+                <caret line="19" selection-start-line="19" selection-end-line="19" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1632">
+              <caret line="96" column="46" selection-start-line="96" selection-start-column="46" selection-end-line="96" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ui/tests/VgCompareFundsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/conf.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="7" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ui/core/DriverProvider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="19" column="35" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ui/pages/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="26" selection-start-line="26" selection-end-line="29" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#664#665#0" expanded="true" />
+                <element signature="e#704#705#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ui/pages/CompareFundsPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ui/utils/PropertyController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>3.5.1</find>
+      <find>bas</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/groovy/com/securepay/AppTests.groovy" />
+        <option value="$PROJECT_DIR$/src/test/resources/config/single.testing.json" />
+        <option value="$PROJECT_DIR$/src/main/java/com/securepay/core/DriverFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/securepay/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/securepay/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/securepay/base/TestBase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ui/lib/constants/Constants.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ui/base/TestBase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ui/pages/SearchPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ui/buisnessobject/DemoQAMainBO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ui/pageobject/DemoQaMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ui/pageobject/AbstractPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ui/utils/ScreenshotReporter.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/config/single.testing.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ui/testsuite/VgTestSuite.java" />
+        <option value="$USER_HOME$/.m2/settings.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ui/pages/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ui/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ui/core/DriverProvider.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ui/tests/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/conf.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ui/utils/PropertyController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ui/core/DriverFactory.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ui/pages/CompareFundsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ui/tests/VgCompareFundsTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="240" />
+    <option name="y" value="130" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="qa-browser-parallel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa-browser-parallel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa-browser-parallel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa-browser-parallel" type="462c0819:PsiDirectoryNode" />
+              <item name="driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa-browser-parallel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa-browser-parallel" type="462c0819:PsiDirectoryNode" />
+              <item name="logger" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa-browser-parallel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa-browser-parallel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa-browser-parallel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa-browser-parallel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa-browser-parallel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa-browser-parallel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa-browser-parallel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa-browser-parallel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa-browser-parallel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa-browser-parallel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa-browser-parallel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa-browser-parallel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa-browser-parallel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa-browser-parallel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa-browser-parallel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa-browser-parallel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa-browser-parallel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa-browser-parallel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa-browser-parallel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa-browser-parallel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa-browser-parallel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa-browser-parallel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa-browser-parallel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa-browser-parallel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa-browser-parallel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa-browser-parallel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="testsuite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa-browser-parallel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa-browser-parallel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qa-browser-parallel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa-browser-parallel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/com/securepay" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.ui" />
+      <recent name="com.securepay" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ui.pages" />
+      <recent name="com.securepay.base" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\git\qa-browser-parallel\src\main\resources" />
+      <recent name="C:\git\qa-browser-parallel\src\test\java\com\ui" />
+      <recent name="C:\git\qa-browser-parallel\src\test\java\com\securepay" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.VgTestSuite">
+    <configuration name="VgTestSuite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ui.testsuite.VgTestSuite" />
+      <module name="ui-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ui.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VgCompareFundsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ui-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ui.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.securepay" />
+      <option name="MAIN_CLASS_NAME" value="com.ui.tests.VgCompareFundsTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-Dbrowser=chrome" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VgCompareFundsTest.method2Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ui-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ui.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.ui.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.ui.tests.VgCompareFundsTest" />
+      <option name="METHOD_NAME" value="method2Test" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-Dbrowser=chrome" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VgCompareFundsTest.method2Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ui-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ui.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.securepay" />
+      <option name="MAIN_CLASS_NAME" value="com.ui.tests.VgCompareFundsTest" />
+      <option name="METHOD_NAME" value="method2Test" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-Dbrowser=chrome" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-Dbrowser=chrome" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.VgCompareFundsTest" />
+        <item itemvalue="TestNG.VgCompareFundsTest.method2Test" />
+        <item itemvalue="Application.VgTestSuite" />
+        <item itemvalue="TestNG.VgCompareFundsTest.method2Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09d675ad-d949-4830-b4ad-1b421265da70" name="Default Changelist" comment="" />
+      <created>1580338758532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580338758532</updated>
+      <workItem from="1580338760640" duration="9766000" />
+      <workItem from="1582280084138" duration="201000" />
+      <workItem from="1582280501790" duration="31000" />
+      <workItem from="1582284489070" duration="21000" />
+      <workItem from="1582286263924" duration="17000" />
+      <workItem from="1582373518589" duration="273000" />
+      <workItem from="1582373930641" duration="301000" />
+      <workItem from="1582374493307" duration="4477000" />
+      <workItem from="1582421117254" duration="47000" />
+      <workItem from="1582421745071" duration="19467000" />
+      <workItem from="1582459126550" duration="4396000" />
+      <workItem from="1582463845071" duration="88000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AppTest - 2020.02.23 at 22h 50m 52s.xml">
+      <configuration name="AppTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AppTest - 2020.02.23 at 22h 53m 25s.xml">
+      <configuration name="AppTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="AppTest - 2020.02.23 at 22h 54m 40s.xml">
+      <configuration name="AppTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="VgCompareFundsTest - 2020.02.23 at 23h 10m 19s.xml">
+      <configuration name="VgCompareFundsTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="VgCompareFundsTest - 2020.02.23 at 23h 42m 06s.xml">
+      <configuration name="VgCompareFundsTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="VgCompareFundsTest_method2Test - 2020.02.23 at 23h 53m 49s.xml">
+      <configuration name="VgCompareFundsTest.method2Test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="VgCompareFundsTest_method2Test - 2020.02.23 at 23h 55m 34s.xml">
+      <configuration name="VgCompareFundsTest.method2Test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="VgCompareFundsTest_method2Test - 2020.02.24 at 00h 00m 21s.xml">
+      <configuration name="VgCompareFundsTest.method2Test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="VgCompareFundsTest - 2020.02.24 at 00h 01m 34s.xml">
+      <configuration name="VgCompareFundsTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="VgCompareFundsTest - 2020.02.24 at 00h 08m 39s.xml">
+      <configuration name="VgCompareFundsTest" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="39085000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.33121693" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32910052" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32910052" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32592592" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/qa-browser-parallel.iml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ui/utils/exceptions/NoSuchPropertyException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/com/securepay/steps/Given.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/com/securepay/page/Payment.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/com/securepay/AppTests.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/securepay/BrowserStackTestNGTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/securepay/LocalTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/securepay/SingleTest.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/3.5.3/selenium-firefox-driver-3.5.3.jar!/org/openqa/selenium/firefox/FirefoxDriver.class" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ui/base/TestBase.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ui/lib/annotation/FileToTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ui/lib/constants/Constants.java" />
+    <entry file="file://$PROJECT_DIR$/logger/loging.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2012" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Amazon Corretto/jdk1.8.0_232/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="787" column="25" selection-start-line="787" selection-start-column="25" selection-end-line="787" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.5.3/selenium-remote-driver-3.5.3.jar!/org/openqa/selenium/remote/DesiredCapabilities.class" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ui/pages/SearchPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ui/pageobject/DemoQaMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ui/pageobject/AbstractPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ui/buisnessobject/DemoQAMainBO.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ui/utils/ScreenshotReporter.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/resources/config/single.testing.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/config/single.testing.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.ui:qa-auto:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.ui:qa-auto:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.ui:qa-auto:1.0-SNAPSHOT</node>
+            <node x="" y="">org.testng:testng:jar:6.11</node>
+            <node x="" y="">org.testng:testng:jar:6.11/com.beust:jcommander:jar:1.64</node>
+            <node x="" y="">org.testng:testng:jar:6.11/org.yaml:snakeyaml:jar:1.17</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/org.seleniumhq.selenium:selenium-api:jar:3.5.3</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/org.seleniumhq.selenium:selenium-chrome-driver:jar:3.5.3</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/org.seleniumhq.selenium:selenium-edge-driver:jar:3.5.3</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/org.seleniumhq.selenium:selenium-firefox-driver:jar:3.5.3</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/org.seleniumhq.selenium:selenium-ie-driver:jar:3.5.3</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/org.seleniumhq.selenium:selenium-opera-driver:jar:3.5.3</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/org.seleniumhq.selenium:selenium-remote-driver:jar:3.5.3</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/org.seleniumhq.selenium:selenium-safari-driver:jar:3.5.3</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/org.seleniumhq.selenium:selenium-support:jar:3.5.3</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/cglib:cglib-nodep:jar:3.2.4</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/org.apache.commons:commons-exec:jar:1.3</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/org.apache.commons:commons-lang3:jar:3.5</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/commons-codec:commons-codec:jar:1.10</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/commons-io:commons-io:jar:2.5</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/org.w3c.css:sac:jar:1.3</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/net.sourceforge.cssparser:cssparser:jar:0.9.23</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/com.google.code.gson:gson:jar:2.8.0</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/com.google.guava:guava:jar:23.0</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/com.google.guava:guava:jar:23.0/com.google.code.findbugs:jsr305:jar:1.3.9</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/com.google.guava:guava:jar:23.0/com.google.errorprone:error_prone_annotations:jar:2.0.18</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/com.google.guava:guava:jar:23.0/com.google.j2objc:j2objc-annotations:jar:1.1</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/com.google.guava:guava:jar:23.0/org.codehaus.mojo:animal-sniffer-annotations:jar:1.14</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/net.sourceforge.htmlunit:htmlunit:jar:2.27</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/net.sourceforge.htmlunit:htmlunit-core-js:jar:2.27</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/net.sourceforge.htmlunit:neko-htmlunit:jar:2.27</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/org.apache.httpcomponents:httpclient:jar:4.5.3</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/org.apache.httpcomponents:httpclient:jar:4.5.3/commons-codec:commons-codec:jar:1.9</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/org.apache.httpcomponents:httpcore:jar:4.4.6</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/org.apache.httpcomponents:httpmime:jar:4.5.3</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/org.eclipse.jetty:jetty-client:jar:9.4.5.v20170502</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/org.eclipse.jetty:jetty-http:jar:9.4.5.v20170502</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/org.eclipse.jetty:jetty-io:jar:9.4.5.v20170502</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/org.eclipse.jetty:jetty-util:jar:9.4.5.v20170502</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/net.java.dev.jna:jna:jar:4.1.0</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/net.java.dev.jna:jna-platform:jar:4.1.0</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/junit:junit:jar:4.12</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/com.codeborne:phantomjsdriver:jar:1.4.0</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/com.codeborne:phantomjsdriver:jar:1.4.0/org.seleniumhq.selenium:selenium-remote-driver:jar:3.1.0</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/org.seleniumhq.selenium:htmlunit-driver:jar:2.27</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/org.seleniumhq.selenium:htmlunit-driver:jar:2.27/org.seleniumhq.selenium:selenium-api:jar:3.4.0</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/org.seleniumhq.selenium:htmlunit-driver:jar:2.27/org.seleniumhq.selenium:selenium-support:jar:3.4.0</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/javax.servlet:javax.servlet-api:jar:3.1.0</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/org.eclipse.jetty.websocket:websocket-api:jar:9.4.5.v20170502</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/org.eclipse.jetty.websocket:websocket-client:jar:9.4.5.v20170502</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/org.eclipse.jetty.websocket:websocket-common:jar:9.4.5.v20170502</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/xalan:serializer:jar:2.7.2</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/xalan:serializer:jar:2.7.2/xml-apis:xml-apis:jar:1.3.04</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/xalan:xalan:jar:2.7.2</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/xerces:xercesImpl:jar:2.11.0</node>
+            <node x="" y="">org.seleniumhq.selenium:selenium-java:jar:3.5.3/xml-apis:xml-apis:jar:1.4.01</node>
+            <node x="" y="">log4j:log4j:jar:1.2.17</node>
+            <node x="" y="">com.tngtech.jgiven:jgiven-testng:jar:0.18.2</node>
+            <node x="" y="">com.tngtech.jgiven:jgiven-testng:jar:0.18.2/org.slf4j:slf4j-api:jar:1.7.25</node>
+            <node x="" y="">com.tngtech.jgiven:jgiven-testng:jar:0.18.2/com.tngtech.jgiven:jgiven-core:jar:0.18.2</node>
+            <node x="" y="">com.tngtech.jgiven:jgiven-testng:jar:0.18.2/com.tngtech.jgiven:jgiven-core:jar:0.18.2/com.google.guava:guava:jar:19.0</node>
+            <node x="" y="">com.tngtech.jgiven:jgiven-testng:jar:0.18.2/com.tngtech.jgiven:jgiven-core:jar:0.18.2/com.google.code.gson:gson:jar:2.8.4</node>
+            <node x="" y="">com.tngtech.jgiven:jgiven-testng:jar:0.18.2/com.tngtech.jgiven:jgiven-core:jar:0.18.2/com.thoughtworks.paranamer:paranamer:jar:2.8</node>
+            <node x="" y="">com.tngtech.jgiven:jgiven-testng:jar:0.18.2/com.tngtech.jgiven:jgiven-core:jar:0.18.2/net.bytebuddy:byte-buddy:jar:1.9.2</node>
+            <node x="" y="">com.tngtech.jgiven:jgiven-testng:jar:0.18.2/com.tngtech.jgiven:jgiven-core:jar:0.18.2/org.fusesource.jansi:jansi:jar:1.15</node>
+            <node x="" y="">com.tngtech.jgiven:jgiven-testng:jar:0.18.2/com.tngtech.jgiven:jgiven-html5-report:jar:0.18.2</node>
+            <node x="" y="">com.tngtech.jgiven:jgiven-testng:jar:0.18.2/com.tngtech.jgiven:jgiven-html5-report:jar:0.18.2/com.tngtech.jgiven:jgiven-html-app:jar:0.18.2</node>
+            <node x="" y="">org.codehaus.geb:geb-core:jar:0.7.2</node>
+            <node x="" y="">org.codehaus.geb:geb-core:jar:0.7.2/org.codehaus.geb:geb-implicit-assertions:jar:0.7.2</node>
+            <node x="" y="">org.hamcrest:hamcrest:jar:2.1</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.2369281045751634" x="778.0" y="1214.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.m2/settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ui/testsuite/VgTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ui/pages/BasePage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ui/core/DriverFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-output/junitreports/TEST-com.ui.tests.VgCompareFundsTest.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="323">
+            <caret line="19" selection-start-line="19" selection-end-line="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="96" column="46" selection-start-line="96" selection-start-column="46" selection-end-line="96" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/conf.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ui/core/DriverProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ui/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" selection-start-line="26" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ui/pages/CompareFundsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#1062#1063#0" expanded="true" />
+            <element signature="e#1102#1103#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ui/utils/PropertyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ui/tests/VgCompareFundsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+com\ui\testsuite\VgTestSuite.class
+com\ui\pages\HomePage.class
+com\ui\pages\CompareFundsPage.class
+com\ui\tests\VgCompareFundsTest.class
