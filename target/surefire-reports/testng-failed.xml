@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Parallel Suite]">
+  <test thread-count="5" verbose="0" name="Smoke(failed)" parallel="methods">
+    <classes>
+      <class name="com.ui.tests.VgCompareFundsTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="method2Test"/>
+          <include name="closeDriver"/>
+        </methods>
+      </class> <!-- com.ui.tests.VgCompareFundsTest -->
+    </classes>
+  </test> <!-- Smoke(failed) -->
+</suite> <!-- Failed suite [Parallel Suite] -->

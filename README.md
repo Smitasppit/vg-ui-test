@@ -2,9 +2,9 @@
 
 ## Installation
  ```
-* git clone project : git@github.com:smitasppit/ui-test.git
+* git clone project : git@github.com:Smitasppit/qa-browser-parallel.git
 
-* cd ui-test
+* cd qa-browser-parallel
 
 * mvn clean compile
 

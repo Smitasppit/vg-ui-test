@@ -317,3 +317,4 @@
 2020-02-24 00:50:36 INFO  VgCompareFundsTest:54 - Click on Add Fund Button
 2020-02-24 00:50:45 INFO  VgCompareFundsTest:60 - Select top 4 products to compare
 2020-02-24 00:50:50 INFO  VgCompareFundsTest:67 - Click on Compare Fund Button
+2020-02-24 01:08:02 INFO  PropertyController:54 - Getting properties from file
