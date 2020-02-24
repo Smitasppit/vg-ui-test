@@ -1,4 +1,4 @@
-# UI-TEST
+# VG-UI-TEST
 
 ## Installation
  ```
