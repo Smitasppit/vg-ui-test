@@ -6,8 +6,8 @@
       <class name="com.ui.tests.VgCompareFundsTest">
         <methods>
           <include name="setUp"/>
-          <include name="method2Test"/>
           <include name="closeDriver"/>
+          <include name="compareFundsTest"/>
         </methods>
       </class> <!-- com.ui.tests.VgCompareFundsTest -->
     </classes>

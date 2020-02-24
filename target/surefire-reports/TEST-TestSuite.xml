@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="22.172" tests="3" errors="0" skipped="2" failures="1">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="24.702" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Amazon Corretto\jdk1.8.0_232\jre\bin"/>
     <property name="java.vm.version" value="25.232-b09"/>
     <property name="browser" value="chrome"/>
     <property name="java.vm.vendor" value="Amazon.com Inc."/>
-    <property name="maven.multiModuleProjectDirectory" value="C:/Users/smita.patil/Documents/vgassignment/new/qa-browser-parallel"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\git\qa-browser-parallel"/>
     <property name="java.vendor.url" value="https://aws.amazon.com/corretto/"/>
     <property name="path.separator" value=";"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\smita.patil\Documents\vgassignment\new\qa-browser-parallel"/>
+    <property name="user.dir" value="C:\git\qa-browser-parallel"/>
     <property name="java.runtime.version" value="1.8.0_232-b09"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Amazon Corretto\jdk1.8.0_232\jre\lib\endorsed"/>
@@ -27,22 +27,22 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:/install/apache-maven-3.6.1/bin/m2.conf"/>
+    <property name="classworlds.conf" value="C:\install\apache-maven-3.6.1\bin\..\bin\m2.conf"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Amazon Corretto\jdk1.8.0_232\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\smita.patil\bin;C:\Users\smita.patil\AppData\Local\Programs\Git\mingw64\bin;C:\Users\smita.patil\AppData\Local\Programs\Git\usr\local\bin;C:\Users\smita.patil\AppData\Local\Programs\Git\usr\bin;C:\Users\smita.patil\AppData\Local\Programs\Git\usr\bin;C:\Users\smita.patil\AppData\Local\Programs\Git\mingw64\bin;C:\Users\smita.patil\AppData\Local\Programs\Git\usr\bin;C:\Users\smita.patil\bin;C:\Program Files\Amazon Corretto\jdk1.8.0_232\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files (x86)\PuTTY;C:\Program Files\nodejs;C:\install\apache-maven-3.6.1\bin;C:\Users\smita.patil\AppData\Local\Microsoft\WindowsApps;C:\Users\smita.patil\AppData\Local\Programs\Git\cmd;C:\Users\smita.patil\AppData\Roaming\npm;C:\Users\smita.patil\AppData\Local\Programs\Git\usr\bin\vendor_perl;C:\Users\smita.patil\AppData\Local\Programs\Git\usr\bin\core_perl;."/>
-    <property name="maven.conf" value="C:/install/apache-maven-3.6.1/conf"/>
+    <property name="java.library.path" value="C:\Program Files\Amazon Corretto\jdk1.8.0_232\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Amazon Corretto\jdk1.8.0_232\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\PuTTY\;C:\Program Files\nodejs\;C:\install\apache-maven-3.6.1\bin;C:\Users\smita.patil\AppData\Local\Microsoft\WindowsApps;C:\Users\smita.patil\AppData\Local\Programs\Git\cmd;C:\Users\smita.patil\AppData\Roaming\npm;;."/>
+    <property name="maven.conf" value="C:\install\apache-maven-3.6.1\bin\../conf"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="os.version" value="10.0"/>
-    <property name="library.jansi.path" value="C:/install/apache-maven-3.6.1/lib/jansi-native"/>
+    <property name="library.jansi.path" value="C:\install\apache-maven-3.6.1\bin\..\lib\jansi-native"/>
     <property name="user.home" value="C:\Users\smita.patil"/>
     <property name="user.timezone" value="Australia/Sydney"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="java.specification.version" value="1.8"/>
     <property name="file.encoding" value="Cp1252"/>
     <property name="user.name" value="smita.patil"/>
-    <property name="java.class.path" value="C:/install/apache-maven-3.6.1/boot/plexus-classworlds-2.6.0.jar"/>
+    <property name="java.class.path" value="C:\install\apache-maven-3.6.1\bin\..\boot\plexus-classworlds-2.6.0.jar"/>
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="C:\Program Files\Amazon Corretto\jdk1.8.0_232\jre"/>
@@ -54,38 +54,16 @@
     <property name="java.version" value="1.8.0_232"/>
     <property name="java.ext.dirs" value="C:\Program Files\Amazon Corretto\jdk1.8.0_232\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Amazon Corretto\jdk1.8.0_232\jre\lib\resources.jar;C:\Program Files\Amazon Corretto\jdk1.8.0_232\jre\lib\rt.jar;C:\Program Files\Amazon Corretto\jdk1.8.0_232\jre\lib\sunrsasign.jar;C:\Program Files\Amazon Corretto\jdk1.8.0_232\jre\lib\jsse.jar;C:\Program Files\Amazon Corretto\jdk1.8.0_232\jre\lib\jce.jar;C:\Program Files\Amazon Corretto\jdk1.8.0_232\jre\lib\charsets.jar;C:\Program Files\Amazon Corretto\jdk1.8.0_232\jre\lib\jfr.jar;C:\Program Files\Amazon Corretto\jdk1.8.0_232\jre\classes"/>
+    <property name="sun.stderr.encoding" value="cp850"/>
     <property name="java.vendor" value="Amazon.com Inc."/>
-    <property name="maven.home" value="C:\install\apache-maven-3.6.1"/>
+    <property name="maven.home" value="C:\install\apache-maven-3.6.1\bin\.."/>
     <property name="file.separator" value="\"/>
     <property name="java.vendor.url.bug" value="https://github.com/corretto/corretto-8/issues/"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.stdout.encoding" value="cp850"/>
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="setUp" classname="com.ui.tests.VgCompareFundsTest" time="22.013">
-    <failure message="Timed out waiting for driver server to start.&#10;Build info: version: &apos;3.5.3&apos;, revision: &apos;a88d25fe6b&apos;, time: &apos;2017-08-29T12:42:44.417Z&apos;&#10;System info: host: &apos;SPAY000657&apos;, ip: &apos;10.0.75.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_232&apos;&#10;Driver info: driver.version: ChromeDriver" type="org.openqa.selenium.WebDriverException">org.openqa.selenium.WebDriverException: 
-Timed out waiting for driver server to start.
-Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
-System info: host: 'SPAY000657', ip: '10.0.75.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_232'
-Driver info: driver.version: ChromeDriver
-	at com.ui.tests.VgCompareFundsTest.setUp(VgCompareFundsTest.java:29)
-Caused by: org.openqa.selenium.net.UrlChecker$TimeoutException: Timed out waiting for [http://localhost:48291/status] to be available after 20004 ms
-	at com.ui.tests.VgCompareFundsTest.setUp(VgCompareFundsTest.java:29)
-Caused by: java.util.concurrent.TimeoutException
-	at com.ui.tests.VgCompareFundsTest.setUp(VgCompareFundsTest.java:29)
-</failure>
-    <system-out><![CDATA[Getting properties from file
-Inside chrome driver
-]]></system-out>
-    <system-err><![CDATA[Feb 24, 2020 1:08:22 AM org.openqa.selenium.os.UnixProcess checkForError
-SEVERE: org.apache.commons.exec.ExecuteException: Execution failed (Exit value: -559038737. Caused by java.io.IOException: Cannot run program "C:\Users\smita.patil\Documents\vgassignment\new\qa-browser-parallel\driver\chromedriver.exe" (in directory "."): CreateProcess error=1260, This program is blocked by group policy. For more information, contact your system administrator)
-]]></system-err>
-  </testcase>
-  <testcase name="method2Test" classname="com.ui.tests.VgCompareFundsTest" time="0">
-    <skipped message="Timed out waiting for driver server to start.&#10;Build info: version: &apos;3.5.3&apos;, revision: &apos;a88d25fe6b&apos;, time: &apos;2017-08-29T12:42:44.417Z&apos;&#10;System info: host: &apos;SPAY000657&apos;, ip: &apos;10.0.75.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_232&apos;&#10;Driver info: driver.version: ChromeDriver"/>
-  </testcase>
-  <testcase name="closeDriver" classname="com.ui.tests.VgCompareFundsTest" time="0">
-    <skipped/>
-  </testcase>
+  <testcase name="compareFundsTest" classname="com.ui.tests.VgCompareFundsTest" time="12.302"/>
 </testsuite>

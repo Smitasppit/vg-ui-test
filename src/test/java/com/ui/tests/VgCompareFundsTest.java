@@ -3,7 +3,9 @@ package com.ui.tests;
 import com.ui.core.DriverProvider;
 import com.ui.pages.CompareFundsPage;
 import com.ui.pages.HomePage;
+import com.ui.utils.Helper;
 import org.apache.log4j.Logger;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
@@ -13,8 +15,6 @@ import java.util.ArrayList;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.testng.Assert.assertEquals;
-
-//import com.ui.buisnessobject.DemoQAMainBO;
 
 public class VgCompareFundsTest {
     private Logger logger = Logger.getLogger(VgCompareFundsTest.class);
@@ -29,12 +29,11 @@ public class VgCompareFundsTest {
         driver= DriverProvider.getDriver();
         String baseurl = DriverProvider.getBaseurl();
         driver.get(baseurl);
+
     }
 
     @Test
-    void method2Test() {
-
-        try {
+    void compareFundsTest() {
 
             homePage = new HomePage(driver);
             compareFundsPage = new CompareFundsPage(driver);
@@ -42,38 +41,30 @@ public class VgCompareFundsTest {
             homePage.verifyHomePageTitle();
             logger.info("Click on Individual and SMSF investors link");
             homePage.clickOnIndividualAndSMSFLink();
-            Thread.sleep(5000);
-
+            Helper.waitUntilPageStopsLoading(driver,50, By.xpath("//a[contains(text(),'Fund compare')]"));
             logger.info("Click on Fund Compare link");
             homePage.clickOnFundCompareLink();
-            Thread.sleep(5000);
 
             ArrayList<String> tabs_windows = new ArrayList<String> (driver.getWindowHandles());
             driver.switchTo().window(tabs_windows.get(1));
-
+            Helper.waitUntilPageStopsLoading(driver,50, By.xpath("//*[@id=\"addButton0\"]"));
             logger.info("Click on Add Fund Button");
             compareFundsPage.addFundButton.click();
             compareFundsPage.verifyComparePageTitle();
-            Thread.sleep(5000);
 
-
-           logger.info("Select top 4 products to compare");
-           compareFundsPage.fund1.click();
-           compareFundsPage.fund2.click();
-           compareFundsPage.fund3.click();
-           compareFundsPage.fund4.click();
-           Thread.sleep(5000);
-
+            Helper.waitUntilPageStopsLoading(driver,50, By.xpath("//*[@id=\"addFund\"]"));
+            logger.info("Select top 4 products to compare");
+            compareFundsPage.fund1.click();
+            compareFundsPage.fund2.click();
+            compareFundsPage.fund3.click();
+            compareFundsPage.fund4.click();
+            Helper.waitUntilPageStopsLoading(driver,50, By.xpath("//*[@id=\"compareFundBtn\"]"));
             logger.info("Click on Compare Fund Button");
-           compareFundsPage.compareFundButton.click();
-            Thread.sleep(5000);
+            compareFundsPage.compareFundButton.click();
+            Helper.waitUntilPageStopsLoading(driver,50, By.xpath(" //*[@id=\"compareTableResults\"]"));
             assertEquals(compareFundsPage.compareFundsHeadingText.getText(),"Compare products");
             assertEquals(compareFundsPage.compareFundsErrorText.getText(),"The funds you chose fall into different investing categories. Comparing funds from different categories may not provide complete or accurate results.");
 
-
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
     }
 
     @AfterMethod
